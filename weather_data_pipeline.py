@@ -10,7 +10,7 @@ import tkinter as tk
 from tkinter import messagebox, filedialog, ttk
 from tkcalendar import DateEntry  # Import DateEntry for date selection
 
-API_KEY = 'dfbcddad699ade211c7cf54a75154cf9'  # Replace with your actual API key
+API_KEY = ''  # Replace with your actual API key
 your_city = 'Hong Kong'
 API_URL = f'http://api.openweathermap.org/data/2.5/weather?q={your_city}&appid={API_KEY}&units=metric'
 
