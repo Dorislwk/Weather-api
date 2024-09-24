@@ -12,10 +12,10 @@ from tkcalendar import DateEntry  # Import DateEntry for date selection
 
 API_KEY = ''  # Replace with your actual API key
 your_city = 'Hong Kong'
-API_URL = f'http://api.openweathermap.org/data/2.5/weather?q={your_city}&appid={API_KEY}&units=metric'
+API_URL = f''
 
 # Global variable to store the database path
-db_path = 'weather_data.db'
+db_path = 'weather_data_29_30.db'
 
 # Task 1: Define a database and table
 def create_table():
