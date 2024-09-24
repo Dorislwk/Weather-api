@@ -4,7 +4,8 @@
 The weather pipeline is available for fetching real-time weather data and fostering analysis about Hong Kong, ultimately building a foundation for daily personal decisions regarding commuting and predicting weather trends for professional use.
 
 ## 2. Table of Content
-- Core features
+- Core Features
+- Project Structure
 - Files and Usage
 - Getting Started
 - GUI Overview
